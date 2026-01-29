@@ -1,16 +1,23 @@
 ### 欢迎光临我的GitHub主页 👋
 
 
- ✨ 简短的介绍 ✨ 
+### ✨ 关于我 / About me
+
+- 🔭 目前主力还是**爬虫 / 数据采集 / 反爬对抗**，各种奇葩网站都跟它斗过智
+- 🌱 正在全力补**前端技术栈**：Vue3 + TS + Pinia + Vite / Nuxt，正在啃 React + Next.js
+- 🛠️ 也开始接触 **Node.js + NestJS / Express**，想做点全栈小项目玩玩
+- 👯 希望找到志同道合的朋友，一起搞项目、互助 code review、卷...或者一起摸鱼
+- 🤔 代码水平仍然不算高，但比7年前的我已经好太多了（自我安慰中）
+- 💬 聊技术、吐槽反爬、分享被 ban 的惨痛经历、或者随便吹水都欢迎
+- 😄 见到真人你可能会觉得：这家伙真的不像传统刻板印象里的码农（大概）
+- 📫 **970190954@qq.com**  /  X: [@0oopok](https://x.com/0oopok)
+- ⚡ 座右铭：**写代码一时爽，一直写一直爽（痛并快乐着）**
+### 🛠️ 技术栈 / Tech Stack（正在持续扩展中）
 
 
-- 🔭 我目前工作方向是爬虫
-- 🌱 但是很有兴趣学习前端技术，例如Vue
-- 👯 希望通过代码找到自己的兴趣并坚持下去
-- 🤔 代码水平不高但我在很努力
-- 💬 如果你见到我，我会颠覆你对码农的印象
-- 📫 970190954@qq.com
-- 😄 我会很高兴认识每一个朋友
-- ⚡ 祝你生活愉快
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ihatekkken)](https://github.com/ihatekkken/github-readme-stats)
+
+
+最后更新：2026年
+愿你代码无 bug，生活有彩蛋 ✨
